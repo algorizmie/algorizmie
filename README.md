@@ -4,7 +4,7 @@ I'm a software developer who creates open-source projects.
 
 
 # 💫 About Me:
-💼 I'm currently working on Debrah app<br>🌱 I’m currently learning JAVA web development<br>💬 Ask me about PHP, Laravel, JavaScript, HTML & CSS<br>📫 Reach me at zakaria.hafidoun@gmail.com<br>⚡ Fun fact I spend more time learning than doing
+💼 I'm currently working on Debrah app<br>🌱 I’m currently learning Flutter, Dart & JAVA<br>💬 Ask me about PHP, Laravel, JavaScript, HTML & CSS<br>📫 Reach me at zakaria.hafidoun@gmail.com<br>⚡ Fun fact I spend more time doing a crazy ideas
 
 
 ## 🌐 Find me on:
