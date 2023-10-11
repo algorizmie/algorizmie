@@ -4,7 +4,7 @@ I'm a software developer who wants to be an indie hacker.
 
 
 # 💫 About Me:
-💼 I'm currently working on Debrah app<br>🌱 Ask me about PHP, Laravel, JavaScript, HTML & CSS<br>📫 Reach me at zakaria.hafidoun@gmail.com<br>⚡ Fun fact I spend more time doing a crazy ideas
+💼 I'm currently working on [Altqniah](https://altqniah.sa/)<br>🌱 Ask me about PHP, Laravel, JavaScript, HTML & CSS<br>📫 Reach me at zakaria.hafidoun@gmail.com<br>⚡ Fun fact I spend more time doing a crazy ideas
 
 
 ## 🌐 Find me on:
